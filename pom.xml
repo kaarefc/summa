@@ -167,7 +167,7 @@
             <dependency> <!-- Tired of tiny changes to Java XSLT processing -->
             	<groupId>xalan</groupId>
             	<artifactId>xalan</artifactId>
-            	<version>2.7.1</version>
+            	<version>2.7.2</version>
             </dependency>
             <dependency>
                 <groupId>com.h2database</groupId>
